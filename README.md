@@ -208,7 +208,7 @@ work through each step below to see the test results.
 
 - The first test we've started to solve already. The test is looking for a
   variable in `calculator.rb`, `first_number`. This variable should be set to
-  an integer or float
+  an integer or float (which means assigning it to a number of your choosing).
 
 - The second test is similar, but this time, looking for `second_number`.
   However, there is a second test here that must also pass:
